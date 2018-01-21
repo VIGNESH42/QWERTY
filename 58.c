@@ -1,8 +1,8 @@
 #include <stdio.h>
 int main()
 {
-    int i = 65;
-    int k = 120;
+    int i = 33;
+    int k = 66;
     printf("before swapping");
     printf(" value of i=%d k=%d", i, k);
 
