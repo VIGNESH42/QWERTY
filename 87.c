@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main()
+void main()
 {
     int a,i,b,gcd;
     printf("enter two number");
@@ -12,5 +12,5 @@ int main()
         }
     }
     printf("%d",gcd);
-    return 0;
+   
 }
