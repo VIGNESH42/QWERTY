@@ -10,5 +10,5 @@ rem=n%10;
 r=rem*r;
 n=n/10;
 }
-printf("%d",r);
+printf("the product is %d",r);
 }
